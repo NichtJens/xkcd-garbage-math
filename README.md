@@ -1,5 +1,4 @@
-# xkcd-garbage-math
-Garbage Math for Python
+# Garbage Math for Python
 
 `from garbage import Garbage`
 
